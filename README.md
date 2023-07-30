@@ -11,12 +11,12 @@ This is a weather forecast web application that provides users with weather info
 
 ## Demo
 
-You can check out the live demo of the weather forecast app [here](https://example.com/weather-forecast-app-demo).
+You can check out the live demo of the weather forecast app [here]([https://example.com/weather-forecast-app-demo](https://forecast-weather-forecast.glitch.me/)).
 
 ## Getting Started
 
 1. Clone the repository:
-git clone https://github.com/your-username/weather-forecast-app.git
+git clone [https://github.com/your-username/weather-forecast-app.git](https://github.com/larastrokach/forecast.git)
 2. Navigate to cd weather-forecast-app
 3. Open index.html in your web browser.
    
