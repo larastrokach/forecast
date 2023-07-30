@@ -11,7 +11,7 @@ This is a weather forecast web application that provides users with weather info
 
 ## Demo
 
-You can check out the live demo of the weather forecast app [here]([https://example.com/weather-forecast-app-demo](https://forecast-weather-forecast.glitch.me/)).
+You can check out the live demo of the weather forecast app [here](https://forecast-weather-forecast.glitch.me/).
 
 ## Getting Started
 
